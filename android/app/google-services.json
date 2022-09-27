@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "823213183680",
+    "firebase_url": "https://react-native-784fc.firebaseio.com",
+    "project_id": "react-native-784fc",
+    "storage_bucket": "react-native-784fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:823213183680:android:9abc384dba255285835325",
+        "android_client_info": {
+          "package_name": "com.newsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "823213183680-ap4skodu6q0d6f103k7e4l1odn38offv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsH5EvYZHkUNt8IbnCJJeeqwMQKWzgB6c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "823213183680-ap4skodu6q0d6f103k7e4l1odn38offv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
